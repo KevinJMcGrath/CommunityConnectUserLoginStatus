@@ -1,0 +1,6 @@
+requests~=2.25.1
+urllib3~=1.26.2
+jsonpickle~=1.4.2
+PyJWT~=1.7.1
+APScheduler~=3.6.3
+simple-salesforce~=1.10.1
